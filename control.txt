@@ -1,2 +1,2 @@
-archivo=gio.bin
-duracion=4
+archivo=PRUEBASVARIOS.bin
+duracion=10
