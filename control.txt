@@ -1,0 +1,2 @@
+archivo=PAREJA.bin
+duracion=30
