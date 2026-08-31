@@ -1,2 +1,2 @@
-archivo=PAREJA.bin
-duracion=5
+archivo=PRUEBASVARIOS.bin
+duracion=3
