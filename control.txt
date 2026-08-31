@@ -1,2 +1,2 @@
-  archivo=pareja.bin
+  archivo= PAREJA.bin
 duracion=6
