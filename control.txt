@@ -1,2 +1,2 @@
-archivo=PRUEBASVARIOS.bin
-duracion=3
+archivo=curva.bin
+duracion=6
