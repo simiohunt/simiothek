@@ -1,2 +1,2 @@
-archivo=curva.bin
+  archivo=pareja.bin
 duracion=6
