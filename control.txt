@@ -1,2 +1,2 @@
-  archivo= PAREJA.bin
-duracion=6
+archivo=gio.bin
+duracion=4
