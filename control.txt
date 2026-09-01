@@ -1,5 +1,4 @@
-archivo=PELICULA04.bin
-duracion=4
-refresh=pelicula
-temporal=si
-expira=1788305836
+archivo=pareja.bin
+duracion=10
+refresh=full
+temporal=no
