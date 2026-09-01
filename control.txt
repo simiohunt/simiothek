@@ -1,6 +1,3 @@
-archivo=parejasssborrable.bin
-duracion=3
+archivo=alfajor.bin
+duracion=4
 refresh=acumula
-temporal=si
-expira=1788298769
-default=PRUEBASVARIOS.bin
