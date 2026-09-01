@@ -1,7 +1,7 @@
-archivo=parejaborrable.bin
+archivo=parejasssborrable.bin
 duracion=3
 refresh=estela
 estela=3
 temporal=si
-expira=1788298018
+expira=1788298693
 default=PRUEBASVARIOS.bin
