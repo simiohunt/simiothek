@@ -1,3 +1,4 @@
-archivo=alfajor.bin
+archivo=alfajorr.bin
 duracion=4
-refresh=acumula
+refresh=estela
+estela=3
