@@ -1,4 +1,4 @@
-archivo=pareja borrable.bin
+archivo=parejaborrable.bin
 duracion=3
 refresh=estela
 estela=3
