@@ -1,4 +1,6 @@
-archivo=alfajorr.bin
-duracion=4
-refresh=estela
-estela=3
+archivo=PELICULA01.bin
+duracion=13
+refresh=pelicula
+ms=200
+temporal=si
+expira=1788305288
