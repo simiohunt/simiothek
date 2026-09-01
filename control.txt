@@ -1,6 +1,5 @@
-archivo=PELICULA03.bin
+archivo=PELICULA04.bin
 duracion=4
 refresh=pelicula
-ms=200
 temporal=si
-expira=1788305495
+expira=1788305836
