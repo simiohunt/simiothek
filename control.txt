@@ -1,2 +1,7 @@
-archivo=PRUEBASVARIOS.bin
-duracion=10
+archivo=pareja borrable.bin
+duracion=3
+refresh=estela
+estela=3
+temporal=si
+expira=1788298018
+default=PRUEBASVARIOS.bin
