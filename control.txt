@@ -1,6 +1,6 @@
-archivo=PELICULA01.bin
-duracion=13
+archivo=PELICULA02.bin
+duracion=1
 refresh=pelicula
 ms=200
 temporal=si
-expira=1788305288
+expira=1788305364
