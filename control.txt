@@ -1,4 +1,6 @@
-archivo=pareja.bin
-duracion=10
-refresh=full
-temporal=no
+archivo=viejosmov.bin
+duracion=30
+refresh=pelicula
+ms=200
+temporal=si
+expira=1788467708
