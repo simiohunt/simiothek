@@ -1,6 +1,5 @@
-archivo=viejosmov.bin
-duracion=30
+archivo=viejosmov2.bin
+duracion=2
 refresh=pelicula
-ms=200
 temporal=si
-expira=1788467708
+expira=1788467966
