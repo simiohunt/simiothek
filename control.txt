@@ -1,3 +1,2 @@
-archivo=movimientoviejsos.bin
+archivo=PAREJAMUSEOCOMPLETA.bin
 duracion=4
-refresh=pelicula
